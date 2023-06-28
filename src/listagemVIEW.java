@@ -64,7 +64,7 @@ public class listagemVIEW extends javax.swing.JFrame {
 
         jScrollPane2.setViewportView(id_produto_venda);
 
-        btnVender.setText("Vender");
+        btnVender.setText("venda");
         btnVender.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnVenderActionPerformed(evt);
